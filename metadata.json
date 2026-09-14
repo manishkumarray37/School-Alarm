@@ -1,0 +1,6 @@
+{
+  "name": "School Alarm",
+  "description": "Lightweight, high-performance native iOS app in Swift and SwiftUI for School Alarm web portal with WKWebView, camera/media permissions, offline recovery, pull-to-refresh, and file downloads.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
